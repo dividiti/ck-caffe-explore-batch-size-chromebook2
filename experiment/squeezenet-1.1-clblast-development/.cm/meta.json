@@ -18,6 +18,7 @@
   "pipeline_uoa": "program", 
   "points": "4", 
   "tags": [
+    "chromebook2",
     "time", 
     "caffemodel", 
     "squeezenet-1.1", 

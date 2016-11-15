@@ -3,6 +3,7 @@
   "data_name": "ck-caffe-explore-batch-size-chromebook2", 
   "dict": {
     "url": "https://github.com/dividiti/ck-caffe-explore-batch-size-chromebook2.git", 
+    "private":"yes",
     "shared": "git"
   }, 
   "data_alias": "ck-caffe-explore-batch-size-chromebook2", 
